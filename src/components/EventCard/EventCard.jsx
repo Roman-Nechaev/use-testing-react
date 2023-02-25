@@ -38,7 +38,7 @@ export const EventCard = ({ name, location, speaker, type, start, end }) => {
   );
 };
 
-Event.propTypes = {
+EventCard.propTypes = {
   name: PropTypes.string.isRequired,
   location: PropTypes.string.isRequired,
   speaker: PropTypes.string.isRequired,
