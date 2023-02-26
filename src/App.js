@@ -40,7 +40,7 @@ class App extends Component {
 
     return (
       <>
-        {/* <h1>Состояние компонента</h1> */}
+        <h1>Состояние компонента</h1>
 
         <div>
           <p>Общее кол-во: {totaTodoCount} </p>
